@@ -6,7 +6,7 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application,responsive design mockup for online auction system.
 
-Design Credits:[Design mockup ](https://dribbble.com/shots/14900792-mobile-app-develop)
+Design Credits:(https://dribbble.com/shots/14900792-mobile-app-develop)
 
 ![](responsive_design_gif.gif)
 
